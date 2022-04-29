@@ -1,0 +1,4 @@
+liesl
+pylsl
+matplotlib
+numpy
